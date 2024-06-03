@@ -65,7 +65,7 @@ function binary($number)
         <h1>Decimal to Octal, Hexadecimal, Binary</h1>
     </center>
     <center>
-        <form method="post" action="activity2.php">
+        <form method="post" action="number_converter_activity2.php">
             <input type="number" name="number" placeholder="Enter number" required>
             <button type="submit">Convert</button>
         </form>
